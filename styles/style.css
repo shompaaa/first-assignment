@@ -119,6 +119,7 @@ ul li {
     color: #737272;
   }
 
+
   /* Positive Mindset Section Styles */
   .positive-mindset {
     margin-top: 100px;
@@ -138,6 +139,30 @@ ul li {
 .positive-mindset-info h2 {
     color: #fff;
 }
+
+  /* Testimonial Section Styles */
+  .testimonial {
+    margin-top: 130px;
+  }
+  .testimonial-info {
+    display: flex;
+    margin: 0 300px;
+    background: #f0ecec;
+    padding: 50px;
+    border-radius: 8px;
+  }
+  .testimonial-title h2 {
+    text-align: center;
+  }
+  .testimonial-info img {
+    width: 100px;
+    border-radius: 50%;
+    background: #737272;
+  }
+  .testimonial-info .section-description {
+    margin-left: 30px;
+    margin-top: 30px;
+  }
 
 /* Footer Section Styles */
 .footer {
