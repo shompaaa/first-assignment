@@ -167,7 +167,7 @@ ul li {
 /* Footer Section Styles */
 .footer {
     background: #151414;
-    padding: 130px 230px;
+    padding: 100px 230px;
 }
 .footer-container {
     display: flex;
@@ -185,6 +185,9 @@ ul li {
     font-size: 16px;
     margin: 15px 0;
     line-height: 1.5;
+}
+.footer-info img {
+    margin-right: 10px;
 }
 
 .subscribe {
